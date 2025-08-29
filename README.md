@@ -20,8 +20,8 @@ Rest-Bus-Simulation/
 │
 ├── .gitignore               # Ignored files
 └── LICENSE                  # MIT License
- 
 
+ 
 #  Project 1: Rest Bus Simulation
 
 ##  Description
