@@ -1,20 +1,20 @@
 📂 Project Structure<br>
-Rest-Bus-Simulation/
-│── README.md
-│
-├── documents/
-│   ├── requirements.docx
-│
-├── testcases_and_execution/
-│   ├── Rest_Bus_Simulation_Test_Cases_With_Results.xlsx
-│
-├── scripts/
-│   ├── example_capl_script.c
-│
-├── assets/
-│   ├── DBC
-│   ├── panels
-│
-└── screenshots/
-    ├── execution_result_1.png
-    ├── execution_result_2.png
+Rest-Bus-Simulation/<br>
+│── README.md<br>
+│<br>
+├── documents/<br>
+│   ├── requirements.docx<br>
+│<br>
+├── testcases_and_execution/<br>
+│   ├── Rest_Bus_Simulation_Test_Cases_With_Results.xlsx<br>
+│<br>
+├── scripts/<br>
+│   ├── example_capl_script.c<br>
+│<br>
+├── assets/<br>
+│   ├── DBC<br>
+│   ├── panels<br>
+│<br>
+└── screenshots/<br>
+    ├── execution_result_1.png<br>
+    ├── execution_result_2.png<br>
