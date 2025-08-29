@@ -19,16 +19,32 @@ The project involved:
 
 ---
 
-## 📂 Folder Structure
+## 📂 Project Structure
+```text
 Rest-Bus-Simulation/
-│── README.md
-│── LICENSE
-│── .gitignore
-│── documents/ # Requirements, Design docs, Reports, Configs
-│── testcases_and_execution/ # Test cases and execution results
-│── scripts/ # Automation scripts (CAPL, Python, MATLAB)
-│── assets/ # Diagrams, logos, supporting files
-│── screenshots/ # Test execution results rajesh
+├── documents/               # Requirements, design docs, reports, configs
+│   ├── requirements.docx
+│   ├── design_document.docx
+│   ├── report.docx
+│   ├── Message_Config.xlsx
+│
+├── testcases_and_execution/ # Test cases and execution results
+│   ├── testcase_template.xlsx
+│   ├── Rest_Bus_Simulation_Test_Cases_With_Results.xlsx
+│
+├── scripts/                 # Automation scripts (CAPL, Python, MATLAB)
+│   ├── example_script.py
+│   ├── example_capl_script.c
+│   ├── example_matlab_script.m
+│
+├── assets/                  # Diagrams, logos, supporting files
+│   ├── project_logo.png
+│   ├── architecture_diagram.png
+│
+└── screenshots/             # Test execution results
+    ├── execution_result_1.png
+    ├── execution_result_2.png
+
 
 
 
