@@ -1,6 +1,7 @@
 ## 📂 Project Structure
 
 Rest-Bus-Simulation/
+```
 ├── documents/               # Requirements
 │   └── requirements.docx
 │
@@ -20,7 +21,7 @@ Rest-Bus-Simulation/
 │
 ├── .gitignore               # Ignored files
 └── LICENSE                  # MIT License
-
+```
  
 #  Project 1: Rest Bus Simulation
 
