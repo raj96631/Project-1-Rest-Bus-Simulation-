@@ -22,11 +22,9 @@ The project involved:
 ## 📂 Project Structure
 ```text
 Rest-Bus-Simulation/
-├── documents/               # Requirements, design docs, reports, configs
+├── documents/               # Requirements
 │   ├── requirements.docx
-│   ├── design_document.docx
-│   ├── report.docx
-│   ├── Message_Config.xlsx
+│    
 │
 ├── testcases_and_execution/ # Test cases and execution results
 │   ├── testcase_template.xlsx
