@@ -2,24 +2,25 @@
 
 Rest-Bus-Simulation/
 ├── documents/               # Requirements
-│   ├── requirements.docx
-│    
+│   └── requirements.docx
+│
 ├── testcases_and_execution/ # Test cases and execution results
-│   ├── Rest_Bus_Simulation_Test_Cases_With_Results.xlsx
+│   └── Rest_Bus_Simulation_Test_Cases_With_Results.xlsx
 │
 ├── scripts/                 # Automation scripts (CAPL)
-│   ├── capl_script.c
+│   └── capl_script.c
 │
 ├── assets/                  # Diagrams, logos, supporting files
 │   ├── RBS_DBC.dbc
-│   ├── panel
+│   └── panel
 │
-└── screenshots/             # Test execution results
-│    ├── REQ_RBS_001.png
-│    ├── REQ_RBS_001.png
+├── screenshots/             # Test execution results
+│   ├── REQ_RBS_001.png
+│   └── REQ_RBS_002.png
 │
 ├── .gitignore               # Ignored files
-└── LICENSE                  # MIT License    
+└── LICENSE                  # MIT License
+ 
 
 #  Project 1: Rest Bus Simulation
 
