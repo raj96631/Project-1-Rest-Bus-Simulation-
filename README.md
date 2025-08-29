@@ -25,29 +25,24 @@ Rest-Bus-Simulation/
 ├── documents/               # Requirements
 │   ├── requirements.docx
 │    
-│
 ├── testcases_and_execution/ # Test cases and execution results
-│   ├── testcase_template.xlsx
 │   ├── Rest_Bus_Simulation_Test_Cases_With_Results.xlsx
 │
-├── scripts/                 # Automation scripts (CAPL, Python, MATLAB)
-│   ├── example_script.py
-│   ├── example_capl_script.c
-│   ├── example_matlab_script.m
+├── scripts/                 # Automation scripts (CAPL)
+│   ├── capl_script.c
 │
 ├── assets/                  # Diagrams, logos, supporting files
-│   ├── project_logo.png
-│   ├── architecture_diagram.png
+│   ├── RBS_DBC.dbc
+│   ├── panel
 │
 └── screenshots/             # Test execution results
-    ├── execution_result_1.png
-    ├── execution_result_2.png
+    ├── REQ_RBS_001.png
+    ├── REQ_RBS_001.png
 
 
 
 
-srsv
 
 
 
-s
+
