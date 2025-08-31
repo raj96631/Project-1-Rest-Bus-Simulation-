@@ -25,6 +25,7 @@ The project involved:
 - **CAPL / Python / MATLAB** (for test automation & analysis)
 - **DBC** (Database Creation for CAN Messages)
 - **Excel / DOORS / RQM / JIRA** (for test case tracking)
+- **GIT / GITHUB** (Version Control)
 
 ---
 
