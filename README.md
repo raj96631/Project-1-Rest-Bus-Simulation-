@@ -50,7 +50,6 @@ Rest-Bus-Simulation/
 │   ├── REQ_RBS_001.png
 │   └── REQ_RBS_002.png
 │
-├── .gitignore               # Ignored files
 └── LICENSE                  # MIT License
 ```
 ---
